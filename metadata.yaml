@@ -1,5 +1,8 @@
 _repo: The-Moonstone_155
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -17,6 +20,8 @@ description: "The Moonstone (1868) by Wilkie Collins is a 19th-century British e
   \ Moonstone also reflected Collins' enlightened social attitudes in his treatment\
   \ of the servants in the novel. Collins adapted The Moonstone for the stage in 1877,\
   \ but the production was performed for only two months.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/155#The-Moonstone
 gutenberg_bookshelf:
 - Detective Fiction
 - Mystery Fiction
