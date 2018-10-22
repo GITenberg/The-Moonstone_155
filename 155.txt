@@ -11,8 +11,7 @@ Title: The Moonstone
 Author: Wilkie Collins
 
 Release Date: January 12, 2006 [EBook #155]
-Last updated: October 20, 2011
-Last updated: January 29, 2013
+Last updated: July 13, 2015
 
 Language: English
 
@@ -3370,7 +3369,9 @@ stairs behind me.
 
 I turned about, and there was Penelope flying down after me like mad.
 "Father!" she screamed, "come up-stairs, for God's sake! THE DIAMOND IS
-GONE!" "Are you out of your mind?" I asked her.
+GONE!"
+
+"Are you out of your mind?" I asked her.
 
 "Gone!" says Penelope. "Gone, nobody knows how! Come up and see."
 
@@ -3607,7 +3608,7 @@ of his men on the staircase which led to the servants' bedrooms, with
 instructions to let nobody in the house pass him, till further orders.
 
 At this latter proceeding, the weaker half of the human family went
-distracted on the spot. They bounced out of their comers, whisked
+distracted on the spot. They bounced out of their corners, whisked
 up-stairs in a body to Miss Rachel's room (Rosanna Spearman being
 carried away among them this time), burst in on Superintendent Seegrave,
 and, all looking equally guilty, summoned him to say which of them he
@@ -3910,7 +3911,7 @@ to seek as ever.
 
 "I can't bear the idea of getting the poor girl into a scrape, merely
 because she has a flighty way with her, and talks very strangely," Mr.
-Franklin went on. "And yet if she had said to, the Superintendent what
+Franklin went on. "And yet if she had said to the Superintendent what
 she said to me, fool as he is, I'm afraid----" He stopped there, and
 left the rest unspoken.
 
@@ -4649,7 +4650,7 @@ than mine.
 your ladyship will consent to it. I propose explaining the case to the
 servants."
 
-"The women will think themselves suspected directly, I said,
+"The women will think themselves suspected directly," I said,
 interrupting him.
 
 "The women won't, Mr. Betteredge," answered the Sergeant, "if I can tell
@@ -9782,7 +9783,7 @@ acquainted--is to show how the Evil One lies in wait for us in all the
 most apparently innocent actions of our daily lives. The chapters best
 adapted to female perusal are "Satan in the Hair Brush;" "Satan behind
 the Looking Glass;" "Satan under the Tea Table;" "Satan out of the
-Window'--and many others.
+Window"--and many others.
 
 "Give your attention, dear aunt, to this precious book--and you will
 give me all I ask." With those words, I handed it to her open, at a
@@ -17228,8 +17229,9 @@ It contained a few lines of writing, as follows:--
 which has once been recognised by the perceptive consciousness, is
 registered (so to speak) in the brain, and may be reproduced at some
 subsequent time, although there may be no consciousness of its existence
-in the mind during the whole intermediate period." "Is that plain, so
-far?" asked Ezra Jennings.
+in the mind during the whole intermediate period."
+
+"Is that plain, so far?" asked Ezra Jennings.
 
 "Perfectly plain."
 
